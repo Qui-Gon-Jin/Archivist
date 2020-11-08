@@ -1,2 +1,2 @@
 # Archivist
-Mass image in archive compressor\converter
+ Mass image in archive resizer\converter
